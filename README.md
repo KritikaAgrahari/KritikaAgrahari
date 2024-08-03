@@ -3,7 +3,7 @@
 
 
 
-<h1 align="center">Greetings! Kritika here.</h1>
+<h1 align="center"> --Greetings! Kritika here 👩‍💻--</h1>
 <h3 align="center">"Innovating and Building with a Love for Technology"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kritikaagrahari&label=Profile%20views&color=0e75b6&style=flat" alt="kritikaagrahari" /> </p>
