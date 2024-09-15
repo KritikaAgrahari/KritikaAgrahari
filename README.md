@@ -93,11 +93,6 @@
 
 ---
 
-### 🏆 Wakatime Stats:
-![Kritika's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=kritikaagrahari&layout=compact&theme=radical)
-
----
-
 ### 📊 GitHub Stats:
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kritikaagrahari&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
@@ -110,13 +105,3 @@
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kritikaagrahari&theme=radical" alt="GitHub Streak Stats" />
 </p>
-
----
-
-### 📊 Coding Languages Pie Chart:
-![Languages Pie Chart](https://github-readme-stats.vercel.app/api/top-langs/?username=kritikaagrahari&layout=compact&theme=radical)
-
----
-
-### 🏆 Dynamic GitHub Contributions Graph:
-![GitHub Contributions Graph](https://activity-graph.herokuapp.com/graph?username=kritikaagrahari&theme=react-dark)
