@@ -7,6 +7,8 @@
   <img src="https://komarev.com/ghpvc/?username=kritikaagrahari&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
+---
+
 ### 🏆 GitHub Trophies:
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -16,8 +18,10 @@
 
 ---
 
-### 📧 Contact Me
+### 📧 Contact Me:
 - Email: [kritikaagrahari42@gmail.com](mailto:kritikaagrahari42@gmail.com)
+
+---
 
 ### 🌐 Connect with Me:
 <p align="left">
@@ -84,6 +88,16 @@
 
 ---
 
+### 📈 GitHub Activity Graph:
+[![Kritika's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kritikaagrahari&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+### 🏆 Wakatime Stats:
+![Kritika's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=kritikaagrahari&layout=compact&theme=radical)
+
+---
+
 ### 📊 GitHub Stats:
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kritikaagrahari&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
@@ -96,3 +110,13 @@
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kritikaagrahari&theme=radical" alt="GitHub Streak Stats" />
 </p>
+
+---
+
+### 📊 Coding Languages Pie Chart:
+![Languages Pie Chart](https://github-readme-stats.vercel.app/api/top-langs/?username=kritikaagrahari&layout=compact&theme=radical)
+
+---
+
+### 🏆 Dynamic GitHub Contributions Graph:
+![GitHub Contributions Graph](https://activity-graph.herokuapp.com/graph?username=kritikaagrahari&theme=react-dark)
