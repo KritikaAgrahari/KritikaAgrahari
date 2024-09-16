@@ -112,3 +112,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kritikaagrahari&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kritikaagrahari&theme=tokyonight" alt="GitHub Streak Stats" />
+</p>
