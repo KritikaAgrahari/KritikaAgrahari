@@ -22,7 +22,7 @@
 ### 🏆 GitHub Trophies:
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kritikaagrahari&theme=tokyonight&no-bg=true&no-frame=true&column=5&margin-w=15&margin-h=15&row=2" alt="GitHub Trophy" style="border-radius: 50%;" />
+    <img src="https://github-profile-trophy.vercel.app/?username=kritikaagrahari&theme=tokyonight&no-bg=true&no-frame=true&column=5&margin-w=15&margin-h=15&row=2" alt="GitHub Trophy" />
   </a>
 </p>
 
@@ -105,13 +105,13 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kritikaagrahari&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" style="border-radius: 50%;" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kritikaagrahari&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kritikaagrahari&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" style="border-radius: 50%;" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kritikaagrahari&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kritikaagrahari&theme=tokyonight" alt="GitHub Streak Stats" style="border-radius: 50%;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kritikaagrahari&theme=tokyonight" alt="GitHub Streak Stats" />
 </p>
