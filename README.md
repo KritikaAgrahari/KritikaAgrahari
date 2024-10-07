@@ -117,3 +117,8 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kritikaagrahari&theme=tokyonight" alt="GitHub Streak Stats" />
 </p>
+
+
+<p align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGpoNGRyeWRzano0amRka3o5YjJvcTlicHRxZnIxeWViaWUyM282OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p6gYQFkPpwjky0Gjfs/giphy.gif" alt="New GIF"/>
+</p>
