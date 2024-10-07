@@ -32,7 +32,9 @@
 - Email: [kritikaagrahari42@gmail.com](mailto:kritikaagrahari42@gmail.com)
 
 ---
+<br clear="both">
 
+<img src="https://raw.githubusercontent.com/Code-Mars/Code-Mars/output/snake.svg" alt="Snake animation" />
 ### 🌐 Connect with Me:
 <p align="left">
   <a href="https://linkedin.com/in/kritika-agrahari" target="_blank">
