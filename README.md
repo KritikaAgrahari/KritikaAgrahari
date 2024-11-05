@@ -98,6 +98,10 @@
   <li><strong>Computer Network Fundamentals</strong>: Practical hands-on networking concepts including setup, troubleshooting, and security with expert guidance.</li>
 </ul>
 
+### 📊 LeetCode Badge:
+[![LeetCode Badge](https://assets.leetcode.com/static_assets/marketing/2024-50.gif)](https://www.leetcode.com/kritikaagrahari)
+
+
 ---
 
 ### 📈 GitHub Activity Graph:
@@ -117,6 +121,8 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kritikaagrahari&theme=tokyonight" alt="GitHub Streak Stats" />
 </p>
+
+
 
 
 <p align="center">
