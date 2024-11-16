@@ -12,7 +12,7 @@
   </a>
 </p>
 
----
+
 
 ### 💬 Random Inspirational Quote:
 <p align="center">
@@ -26,12 +26,12 @@
   </a>
 </p>
 
----
+
 
 ### 📧 Contact Me:
 - Email: [kritikaagrahari42@gmail.com](mailto:kritikaagrahari42@gmail.com)
 
----
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Code-Mars/Code-Mars/output/snake.svg" alt="Snake animation" />
@@ -51,7 +51,7 @@
   </a>
 </p>
 
----
+
 
 ### 🛠️ Languages and Tools:
 <p align="left"> 
@@ -90,7 +90,6 @@
   </a> 
 </p>
 
----
 
 ### 🏆 Achievements & Certifications:
 <ul>
@@ -102,12 +101,12 @@
 [![LeetCode Badge](https://assets.leetcode.com/static_assets/marketing/2024-50.gif)](https://www.leetcode.com/kritikaagrahari)
 
 
----
+
 
 ### 📈 GitHub Activity Graph:
 [![Kritika's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kritikaagrahari&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----
+
 
 ### 📊 GitHub Stats:
 <p align="center">
