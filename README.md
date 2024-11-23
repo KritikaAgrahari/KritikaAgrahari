@@ -97,7 +97,7 @@
 
 ### 📊 LeetCode Badge:
 [![LeetCode Badge](https://assets.leetcode.com/static_assets/marketing/2024-50.gif)](https://www.leetcode.com/kritikaagrahari)
-[![LeetCode 100-Day Badge](https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif)](https://www.leetcode.com/kritikaagrahari)
+[![LeetCode Banner](https://assets.leetcode.com/static_assets/marketing/2024-100-lg.png)](https://leetcode.com/u/Kritika_Agrahari/)
 
 
 
