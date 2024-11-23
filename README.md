@@ -96,9 +96,8 @@
 </ul>
 
 ### 📊 LeetCode Badge:
-[![LeetCode Badge](https://assets.leetcode.com/static_assets/marketing/2024-50.gif)](https://www.leetcode.com/kritikaagrahari)
-[![LeetCode Banner](https://assets.leetcode.com/static_assets/marketing/2024-100-lg.png)](https://leetcode.com/u/Kritika_Agrahari/)
-
+[<img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="150">](https://www.leetcode.com/kritikaagrahari)
+[<img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" width="150">](https://leetcode.com/u/Kritika_Agrahari/)
 
 
 
