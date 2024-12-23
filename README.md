@@ -1,4 +1,5 @@
 ![Banner](https://github.com/KritikaAgrahari/KritikaAgrahari/blob/main/Banner.png)
+
 ### 👁️ Profile Views:
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kritikaagrahari&style=for-the-badge&color=7e8c8d" alt="Profile Views" />
