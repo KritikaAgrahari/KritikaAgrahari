@@ -8,6 +8,7 @@
 
 💫 Spotlight Banner:
 <p align="center">
+  
   <a href="https://github.com/KritikaAgrahari">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=500&color=9f9f9f&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;I'm+Kritika+Agrahari+👩‍💻;I+Love+Coding+and+Technology;Innovating+with+Passion✨;Building+Technology+for+the+Future" alt="Typing SVG" />
   </a>
