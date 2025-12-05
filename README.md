@@ -16,7 +16,7 @@ I explore AI, software development, problem-solving, and creative tech projects.
 
 <br>
 
-## 🧿 Animated Inspirational Quote  
+## 🧿 Inspirational Quote  
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" />
 </p>
