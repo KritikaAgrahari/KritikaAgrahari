@@ -1,3 +1,5 @@
+<div style="background-color: #000000; padding: 20px; border-radius: 10px;">
+
 <!-- Banner -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/KritikaAgrahari/KritikaAgrahari/main/Banner.png" />
@@ -210,3 +212,4 @@ I explore AI, software development, problem-solving, and creative tech projects.
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00E7FF&height=120&section=footer"/>
 </p>
 
+</div>
