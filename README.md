@@ -1,4 +1,4 @@
-<div align="center" style="background-color:#000; color:#fff; padding:40px; border-radius:10px; width:100%;">
+<div align="center" style="background:#000000; color:#ffffff; padding:40px; border-radius:10px;">
 
 <!-- Banner -->
 <p align="center">
